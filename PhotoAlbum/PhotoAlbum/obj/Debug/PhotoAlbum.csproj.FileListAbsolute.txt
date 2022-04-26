@@ -1,0 +1,72 @@
+D:\C#\C# Graphics Semster b\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+D:\C#\C# Graphics Semster b\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+D:\C#\C# Graphics Semster b\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+D:\C#\C# Graphics Semster b\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csprojAssemblyReference.cache
+D:\C#\C# Graphics Semster b\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.PhotoForm.resources
+D:\C#\C# Graphics Semster b\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Properties.Resources.resources
+D:\C#\C# Graphics Semster b\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.cache
+D:\C#\C# Graphics Semster b\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+D:\C#\C# Graphics Semster b\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
+D:\C#\C# Graphics Semster b\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Form1.resources
+D:\C#\C# Graphics Semster b\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.CoreCompileInputs.cache
+D:\C#\C# Graphics Semster b\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.categoryform.resources
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.categoryform.resources
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Form1.resources
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.PhotoForm.resources
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Properties.Resources.resources
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.Cache
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.LocatioForm.resources
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csprojResolveAssemblyReference.cache
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.ShowPhoto.resources
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.ImageListViewForm.resources
+E:\Telhai\Graphics\24_03_20\PhotoAlbum\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.LoadImageToListView.resources
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csprojAssemblyReference.cache
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.categoryform.resources
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Form1.resources
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.ImageListViewForm.resources
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.LocatioForm.resources
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.PhotoForm.resources
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Properties.Resources.resources
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.ShowPhoto.resources
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.cache
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.CoreCompileInputs.cache
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+H:\Graphics\4-6-20\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csprojAssemblyReference.cache
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.categoryform.resources
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Form1.resources
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.ImageListViewForm.resources
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.LocatioForm.resources
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.PhotoForm.resources
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Properties.Resources.resources
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.ShowPhoto.resources
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.cache
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
+C:\Users\shake\Desktop\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.LoadFromFolder.resources
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csprojAssemblyReference.cache
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.categoryform.resources
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Form1.resources
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.ImageListViewForm.resources
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.LoadFromFolder.resources
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.LocatioForm.resources
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.PhotoForm.resources
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.Properties.Resources.resources
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.ShowPhoto.resources
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.cache
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+C:\Users\shake\Desktop\Shaked\לימודים\PhotoAlbum\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
